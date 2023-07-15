@@ -9,7 +9,7 @@ namespace BroCode
     public class Car
     {
         public static int numberOfCars;
-        string model;
+      public  string model;
         public Car(string model)
         {
             this.model = model;
